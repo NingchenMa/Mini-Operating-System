@@ -1,0 +1,22 @@
+help
+set mary 10
+set tom 20
+set bob mary
+set bobbie Montreal Canadians
+print mary
+print tom
+print bob
+print bobbie
+run a.txt
+run unknown.txt
+exec
+exec a.txt 
+exec b.txt 
+exec c.txt 
+exec a.txt b.txt 
+exec a.txt b.txt c.txt
+exec a.txt a.txt
+exec b.txt b.txt c.txt
+exec c.txt c.txt c.txt
+exec a.txt c.txt a.txt
+exec unknown.txt

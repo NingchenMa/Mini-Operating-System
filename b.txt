@@ -1,0 +1,8 @@
+set b1 30
+print b1
+set b2 40
+print b2
+set b3 30
+print b3
+set b4 40
+print b4

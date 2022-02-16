@@ -1,0 +1,14 @@
+set c1 50
+print c1
+set c2 50
+print c2
+set c3 60
+print c3
+set name sarah
+set time morning
+set date Monday
+print name
+print time
+print date
+help
+quit
